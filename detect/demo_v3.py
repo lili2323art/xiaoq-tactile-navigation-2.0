@@ -7,7 +7,7 @@ from ultralytics import YOLO
 MODE = 'camera'
 
 # --- 网络配置 ---
-ESP32_IP = "192.168.147.27"  # <--- !!! 修改为你的ESP32的实际IP地址 !!!
+ESP32_IP = "192.168.243.27"  # <--- !!! 修改为你的ESP32的实际IP地址 !!!
 ESP32_PORT = 12345
 
 # --- YOLO模型与跟踪配置 ---
