@@ -1,9 +1,9 @@
 # Tactile-Navigator
-A real-time tactile navigation device developed for the blind.
+A real-time tactile navigation hardware built for people with visual impairments, designed to work with a cane (walking stick) for everyday guidance.
 
 ## 🔧 Project Architecture
 
-The project consists of a Host PC and an ESP32 Client, which communicate over a local Wi-Fi network.
+The project consists of a Host PC and an ESP32 Client, which communicate over a local Wi-Fi network. This is an intelligent assistive hardware platform for blind users, intended to provide tactile steering cues during walking with a cane.
 
 ```
 [Camera / Video File]
