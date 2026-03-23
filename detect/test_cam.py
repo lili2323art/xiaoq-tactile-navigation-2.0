@@ -1,7 +1,7 @@
 import cv2
 
 # 打开摄像头（0 表示默认摄像头）
-cap = cv2.VideoCapture(2, cv2.CAP_DSHOW)
+cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 
 if not cap.isOpened():
     print("无法打开摄像头")
